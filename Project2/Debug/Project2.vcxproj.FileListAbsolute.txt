@@ -1,0 +1,9 @@
+C:\Users\Miguel\source\repos\Project2\Project2\Debug\Project2.vcxproj.AssemblyReference.cache
+C:\Users\Miguel\source\repos\Project2\Project2\Debug\Project2.adminpage.resources
+C:\Users\Miguel\source\repos\Project2\Project2\Debug\Project2.Edit.resources
+C:\Users\Miguel\source\repos\Project2\Project2\Debug\Project2.reservation.resources
+C:\Users\Miguel\source\repos\Project2\Project2\Debug\Project2.mainform.resources
+C:\Users\Miguel\source\repos\Project2\Project2\Debug\Project2.home.resources
+C:\Users\Miguel\source\repos\Project2\Project2\Debug\Project2.rooms.resources
+C:\Users\Miguel\source\repos\Project2\Project2\Debug\Project2.View.resources
+C:\Users\Miguel\source\repos\Project2\Project2\Debug\Project2.vcxproj.GenerateResource.cache
